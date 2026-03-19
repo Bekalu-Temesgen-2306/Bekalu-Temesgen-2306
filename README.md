@@ -3,12 +3,17 @@ A passionate full stack developer  || Content Creator  || Graphics Designer
 
 Email Me 👉 ✉️ **bekalutemesgen74@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
+- 🔭 **I’m currently working on:** Building scalable full-stack platforms like(MSMS) Micro Finance and Saving Management System 
+
+- 🌱 **I’m currently learning:** System Design, Backend Architecture, and Advanced React Patterns
+
+- 👯 **I’m looking to collaborate on:** Full-stack projects, developer tools, and impactful campus/startup ideas
+
+- 🤔 **I’m looking for help with:** Scaling applications, optimizing database performance, and deploying production-ready systems
+
+- 💬 **Ask me about:** React, Node.js, REST APIs, MySQL, and building real-world projects
+
+- 📫 **How to reach me:** bekalutemesgen74@gmail.com
 ## 🔗 I am a Computer Science Student As Well . 😊😊
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bek_dad2306) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ bekalu-temesgen2306) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bekalu_tem2123) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bekalutemesgen74@gmail.com) 
